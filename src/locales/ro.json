@@ -1,0 +1,182 @@
+{
+  "seo": {
+    "title": "Feeling Coffee — Cafea de specialitate în Chișinău",
+    "description": "Cafea de specialitate proaspăt prăjită, pregătită de barista profesioniști în Chișinău. Descoperă meniul și locațiile Feeling Coffee."
+  },
+  "nav": {
+    "home": "Acasă",
+    "about": "Despre noi",
+    "menu": "Meniu",
+    "locations": "Locații",
+    "contact": "Contact",
+    "openMenuLabel": "Deschide meniul de navigare",
+    "closeMenuLabel": "Închide meniul de navigare"
+  },
+  "hero": {
+    "eyebrow": "Chișinău, Moldova · Specialty Coffee",
+    "headlineLine1": "Mai mult decât o cafea.",
+    "headlineItalic": "Un moment",
+    "headlineLine2": "pentru tine.",
+    "subtitle": "Cafea de specialitate proaspăt prăjită, preparată cu grijă de barista profesioniști.",
+    "discoverCta": "Descoperă cafeaua noastră",
+    "locationCta": "Găsește o locație",
+    "scrollLabel": "Derulează în jos",
+    "editorialCaption": "01 / 17 · Prăjire zilnică & baruri urbane în Chișinău",
+    "imageAlt": "Barista preparând espresso la un bar de cafea Feeling Coffee"
+  },
+  "about": {
+    "sectionIndex": "01",
+    "kicker": "Despre Feeling Coffee",
+    "headline": "Creat din dragoste pentru cafea.",
+    "verticalLabel": "FEELING COFFEE · CHIȘINĂU",
+    "paragraph1": "La Feeling Coffee, fiecare ceașcă pornește de la boabe de specialitate proaspăt prăjite, calibrate zilnic de barista profesioniști pentru un echilibru curat și o textură catifelată.",
+    "paragraph2": "Alături de espresso și metodele de preparare la filtru, oaspeții noștri găsesc deserturi proaspete, produse de patiserie și opțiuni ușoare de mic dejun într-o atmosferă caldă și primitoare.",
+    "statOpenLabel": "Locații deschise în Chișinău",
+    "statSoonLabel": "Locații noi în pregătire",
+    "largeImageAlt": "Interiorul cald din lemn de nuc și panourile de meniu Feeling Coffee",
+    "smallImageAlt": "Boabe de cafea proaspăt prăjite și ibric pentru pour-over"
+  },
+  "experience": {
+    "sectionIndex": "02",
+    "kicker": "Experiența cafelei",
+    "headline": "Cinci moduri de a savura momentul.",
+    "subtitle": "De la extracții clasice de espresso până la infuzii lente la filtru și băuturi reci răcoritoare.",
+    "categories": {
+      "espresso": {
+        "index": "01",
+        "title": "Espresso",
+        "description": "Extracții precise și intense, baza fiecărei rețete din barul nostru."
+      },
+      "milk": {
+        "index": "02",
+        "title": "Cafea cu lapte",
+        "description": "Micro-spumă fină, echilibru catifelat în Cappuccino, Flat White, Latte și Raff."
+      },
+      "pourover": {
+        "index": "03",
+        "title": "Pour-over",
+        "description": "Preparare manuală la Chemex și V60 pentru note clare și aromatice."
+      },
+      "cold": {
+        "index": "04",
+        "title": "Cafea rece",
+        "description": "Cold Brew, Espresso Tonic și Bumble Coffee pentru zile energice."
+      },
+      "matcha": {
+        "index": "05",
+        "title": "Matcha și alte băuturi",
+        "description": "Matcha Latte, ciocolată caldă densă, ceai rece și fresh-uri naturale."
+      }
+    }
+  },
+  "menu": {
+    "sectionIndex": "03",
+    "kicker": "Meniu",
+    "headline": "Selecția de băuturi",
+    "subtitle": "Volume standard și metode de preparare disponibile în cafenelele noastre.",
+    "tabs": {
+      "all": "Toate categoriile",
+      "espresso": "Espresso",
+      "pourover": "Pour-over",
+      "blended": "Blended și altele"
+    },
+    "sections": {
+      "espresso": "Espresso",
+      "pourover": "Pour-over Coffee",
+      "blended": "Blended și alte băuturi"
+    },
+    "processingTitle": "Opțiuni de procesare specialty",
+    "processingOptions": {
+      "washed": "Washed",
+      "natural": "Natural",
+      "anaerobic": "Anaerobic"
+    },
+    "drinks": {
+      "espresso": "Extracție concentrată cu cremă bogată",
+      "doppio": "Dublu espresso echilibrat",
+      "long-black": "Dublu espresso peste apă fierbinte",
+      "cortado": "Espresso temperat cu lapte cald",
+      "cappuccino": "Espresso și spumă densă de lapte",
+      "flat-white": "Dublu espresso cu micro-spumă fină",
+      "latte": "Espresso blând cu lapte catifelat",
+      "raff-coffee": "Espresso bătut cu frișcă și vanilie",
+      "chemex": "Preparare curată la carafă de sticlă",
+      "v60": "Extracție manuală la con pentru claritate",
+      "affogato": "Înghețată cu espresso fierbinte",
+      "espresso-tonic": "Espresso proaspăt cu tonic rece",
+      "cold-brew": "Infuzie lentă la rece",
+      "bumble-coffee": "Suc de portocale și espresso",
+      "iced-coffee": "Cafea rece servită cu gheață",
+      "iced-tea": "Ceai rece răcoritor",
+      "frappe": "Băutură rece cremoasă cu cafea",
+      "fresh": "Suc proaspăt stors",
+      "matcha-latte": "Ceai verde matcha și lapte cald",
+      "hot-chocolate": "Ciocolată caldă bogată"
+    },
+    "availabilityNote": "Notă: Disponibilitatea și selecția produselor pot varia în funcție de locație."
+  },
+  "locations": {
+    "sectionIndex": "04",
+    "kicker": "Locații în Chișinău",
+    "headline": "Găsește cel mai apropiat bar Feeling Coffee",
+    "subtitle": "Explorează toate locațiile verificate pe harta interactivă sau caută după stradă și sector.",
+    "networkNote": "Rețeaua Feeling Coffee numără 17 locații deschise și 3 în pregătire. Harta și lista de mai jos afișează toate cele 16 locații verificate din Chișinău (1 locație suplimentară este în curs de confirmare).",
+    "searchPlaceholder": "Caută după stradă, sector sau reper (ex. Vlaicu Pârcălab, Sky Tower, Ciocana)...",
+    "filters": {
+      "all": "Toate verificate (16)",
+      "centru": "Centru (11)",
+      "sectors": "Ciocana · Rîșcani · Buiucani · Telecentru (5)",
+      "with_hours": "Cu orar de referință (3)"
+    },
+    "showingCount": "{{visible}} din {{total}} locații pe hartă",
+    "days": {
+      "monFri": "Luni–Vineri",
+      "satSun": "Sâmbătă–Duminică",
+      "monSun": "Luni–Duminică"
+    },
+    "hoursHeading": "Program de lucru",
+    "referenceHoursBadge": "Orar de referință (poate varia)",
+    "checkOpeningHours": "Verificați programul la fața locului",
+    "phoneLabel": "Telefon",
+    "directionsCta": "Traseu Google Maps",
+    "showAllOnMap": "Arată toate pe hartă",
+    "focusOnMap": "Centrează",
+    "selectedBadge": "Selectat",
+    "emptyTitle": "Nicio locație găsită",
+    "emptySubtitle": "Încearcă un alt nume de stradă sau resetează filtrele.",
+    "resetFilters": "Resetează căutarea"
+  },
+  "instagram": {
+    "sectionIndex": "05",
+    "kicker": "Instagram",
+    "headline": "Follow the feeling.",
+    "subtitle": "Descoperă cafeaua noastră, locațiile noi și momentele de zi cu zi.",
+    "followCta": "Urmărește @feeling.coffee.chisinau",
+    "photoAlts": [
+      "Interior Feeling Coffee cu panourile de meniu",
+      "Barista turnând micro-spumă în latte art",
+      "Espresso dublu cu cremă bogată",
+      "Chemex la fereastră cu cafea de specialitate",
+      "Espresso Tonic rece cu gheață",
+      "Matcha Latte și croissant proaspăt"
+    ]
+  },
+  "contact": {
+    "sectionIndex": "06",
+    "kicker": "Contact",
+    "headline": "Găsește cel mai apropiat Feeling Coffee.",
+    "subtitle": "Te așteptăm zilnic la o ceașcă de cafea proaspăt prăjită în Chișinău.",
+    "phoneLabel": "Telefon",
+    "instagramLabel": "Instagram",
+    "cityLabel": "Oraș",
+    "directionsBtn": "Explorează harta locațiilor",
+    "instagramBtn": "Deschide Instagram"
+  },
+  "footer": {
+    "description": "Cafea de specialitate proaspăt prăjită, deserturi și momente liniștite în Chișinău.",
+    "navTitle": "Navigare",
+    "connectTitle": "Contact & Social",
+    "languageTitle": "Limbă",
+    "copyright": "© 2026 Feeling Coffee Chișinău. Toate drepturile rezervate."
+  }
+}

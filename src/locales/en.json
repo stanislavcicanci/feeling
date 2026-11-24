@@ -1,0 +1,182 @@
+{
+  "seo": {
+    "title": "Feeling Coffee — Specialty Coffee in Chișinău",
+    "description": "Freshly roasted specialty coffee prepared by professional baristas across Chișinău, Moldova. Explore our menu and locations."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "menu": "Menu",
+    "locations": "Locations",
+    "contact": "Contact",
+    "openMenuLabel": "Open navigation menu",
+    "closeMenuLabel": "Close navigation menu"
+  },
+  "hero": {
+    "eyebrow": "Chișinău, Moldova · Specialty Coffee",
+    "headlineLine1": "Coffee is",
+    "headlineItalic": "more",
+    "headlineLine2": "than a moment.",
+    "subtitle": "Freshly roasted specialty coffee, thoughtfully prepared and served with care.",
+    "discoverCta": "Discover our coffee",
+    "locationCta": "Find a location",
+    "scrollLabel": "Scroll down",
+    "editorialCaption": "01 / 17 · Freshly Roasted & Neighborhood Bars in Chișinău",
+    "imageAlt": "Barista preparing espresso at Feeling Coffee bar"
+  },
+  "about": {
+    "sectionIndex": "01",
+    "kicker": "About Feeling Coffee",
+    "headline": "Made for the love of coffee.",
+    "verticalLabel": "FEELING COFFEE · CHIȘINĂU",
+    "paragraph1": "At Feeling Coffee, every cup starts with freshly roasted specialty beans dialed in daily by professional baristas for clean balance and lasting sweetness.",
+    "paragraph2": "Alongside espresso and manual pour-over brews, guests enjoy fresh pastries, desserts, and light breakfast options in a calm, welcoming atmosphere.",
+    "statOpenLabel": "Locations open in Chișinău",
+    "statSoonLabel": "New locations coming soon",
+    "largeImageAlt": "Feeling Coffee warm walnut wood interior and menu boards",
+    "smallImageAlt": "Freshly roasted coffee beans and pour-over kettle"
+  },
+  "experience": {
+    "sectionIndex": "02",
+    "kicker": "Coffee Experience",
+    "headline": "Five expressions of specialty coffee.",
+    "subtitle": "From concentrated espresso shots to hand-poured filter coffee and crisp cold drinks.",
+    "categories": {
+      "espresso": {
+        "index": "01",
+        "title": "Espresso",
+        "description": "Focused, balanced extractions forming the heart of our coffee bar."
+      },
+      "milk": {
+        "index": "02",
+        "title": "Milk-based coffee",
+        "description": "Silky steamed microfoam across Cappuccino, Flat White, Latte, and Raff."
+      },
+      "pourover": {
+        "index": "03",
+        "title": "Pour-over coffee",
+        "description": "Hand-brewed Chemex and V60 filters highlighting clarity and aroma."
+      },
+      "cold": {
+        "index": "04",
+        "title": "Cold coffee",
+        "description": "Cold Brew, Espresso Tonic, and Bumble Coffee served crisp over ice."
+      },
+      "matcha": {
+        "index": "05",
+        "title": "Matcha and other drinks",
+        "description": "Matcha Latte, velvety hot chocolate, iced tea, and fresh citrus juice."
+      }
+    }
+  },
+  "menu": {
+    "sectionIndex": "03",
+    "kicker": "Menu",
+    "headline": "Beverage Menu",
+    "subtitle": "Standard drink volumes and brew methods available across our coffee bars.",
+    "tabs": {
+      "all": "All Categories",
+      "espresso": "Espresso",
+      "pourover": "Pour-over",
+      "blended": "Blended & Other"
+    },
+    "sections": {
+      "espresso": "Espresso",
+      "pourover": "Pour-over Coffee",
+      "blended": "Blended and Other Coffee"
+    },
+    "processingTitle": "Specialty coffee processing options",
+    "processingOptions": {
+      "washed": "Washed",
+      "natural": "Natural",
+      "anaerobic": "Anaerobic"
+    },
+    "drinks": {
+      "espresso": "Concentrated shot with rich crema",
+      "doppio": "Balanced double espresso",
+      "long-black": "Double espresso over hot water",
+      "cortado": "Espresso balanced with warm milk",
+      "cappuccino": "Espresso with silky milk foam",
+      "flat-white": "Double espresso with fine microfoam",
+      "latte": "Smooth espresso and steamed milk",
+      "raff-coffee": "Whipped espresso with cream and vanilla",
+      "chemex": "Clean glass carafe filter brew",
+      "v60": "Hand-poured cone filter extraction",
+      "affogato": "Ice cream topped with hot espresso",
+      "espresso-tonic": "Fresh espresso over chilled tonic",
+      "cold-brew": "Slow cold-water extraction",
+      "bumble-coffee": "Fresh orange juice and espresso",
+      "iced-coffee": "Chilled coffee served over ice",
+      "iced-tea": "Refreshing brewed iced tea",
+      "frappe": "Creamy blended iced coffee",
+      "fresh": "Freshly pressed juice",
+      "matcha-latte": "Japanese matcha green tea and milk",
+      "hot-chocolate": "Rich velvety hot chocolate"
+    },
+    "availabilityNote": "Note: Availability and selection may vary by location."
+  },
+  "locations": {
+    "sectionIndex": "04",
+    "kicker": "Locations in Chișinău",
+    "headline": "Find Your Nearest Coffee Bar",
+    "subtitle": "Explore all verified locations on the interactive map or filter by street and neighborhood.",
+    "networkNote": "Feeling Coffee operates 17 open locations with 3 additional locations planned. The map and directory below show all 16 verified Chișinău locations (1 additional address awaiting verification).",
+    "searchPlaceholder": "Search by street, sector, or landmark (e.g. Vlaicu Pârcălab, Sky Tower, Ciocana)...",
+    "filters": {
+      "all": "All Verified (16)",
+      "centru": "Centru (11)",
+      "sectors": "Ciocana · Rîșcani · Buiucani · Telecentru (5)",
+      "with_hours": "With reference hours (3)"
+    },
+    "showingCount": "{{visible}} of {{total}} locations on map",
+    "days": {
+      "monFri": "Mon–Fri",
+      "satSun": "Sat–Sun",
+      "monSun": "Mon–Sun"
+    },
+    "hoursHeading": "Opening hours",
+    "referenceHoursBadge": "Reference hours (subject to change)",
+    "checkOpeningHours": "Check opening hours",
+    "phoneLabel": "Phone",
+    "directionsCta": "Google Maps Directions",
+    "showAllOnMap": "Show all on map",
+    "focusOnMap": "Center map",
+    "selectedBadge": "Selected",
+    "emptyTitle": "No matching locations",
+    "emptySubtitle": "Try another street name or clear the search filter.",
+    "resetFilters": "Reset search"
+  },
+  "instagram": {
+    "sectionIndex": "05",
+    "kicker": "Instagram",
+    "headline": "Follow the feeling.",
+    "subtitle": "Discover our coffee, new locations and everyday moments.",
+    "followCta": "Follow @feeling.coffee.chisinau",
+    "photoAlts": [
+      "Feeling Coffee interior with wooden walls and menu boards",
+      "Barista pouring rosetta latte art",
+      "Double espresso with golden crema",
+      "Chemex specialty pour-over brewing",
+      "Iced espresso tonic in sunlight",
+      "Matcha latte paired with a fresh croissant"
+    ]
+  },
+  "contact": {
+    "sectionIndex": "06",
+    "kicker": "Contact",
+    "headline": "Find your nearest Feeling Coffee.",
+    "subtitle": "Stop by any day for freshly roasted specialty coffee in Chișinău.",
+    "phoneLabel": "Phone",
+    "instagramLabel": "Instagram",
+    "cityLabel": "City",
+    "directionsBtn": "Explore Location Map",
+    "instagramBtn": "Open Instagram"
+  },
+  "footer": {
+    "description": "Freshly roasted specialty coffee, fresh pastries, and welcoming neighborhood bars in Chișinău.",
+    "navTitle": "Navigation",
+    "connectTitle": "Connect",
+    "languageTitle": "Language",
+    "copyright": "© 2026 Feeling Coffee Chișinău. All rights reserved."
+  }
+}

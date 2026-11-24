@@ -1,0 +1,6 @@
+{
+  "name": "Feeling Coffee — Chișinău",
+  "description": "Freshly roasted specialty coffee across 14 locations in Chișinău. Explore our menu, opening hours, and directions in Romanian, Russian, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
